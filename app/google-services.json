@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987274196021",
+    "firebase_url": "https://levelauthenticationsystem.firebaseio.com",
+    "project_id": "levelauthenticationsystem",
+    "storage_bucket": "levelauthenticationsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987274196021:android:9d6cf57a341e0b09",
+        "android_client_info": {
+          "package_name": "com.example.a3levelauthenticationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987274196021-k3m0mms5o913uikqvke9ei2pp15c7u5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a3levelauthenticationsystem",
+            "certificate_hash": "80fcc73ad15a9c8d79b62e6a5ef5c2f76a822219"
+          }
+        },
+        {
+          "client_id": "987274196021-5kncvakrj3ijcedkedtgv7r5g3mv6gni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5q1sng0ehV45mUFi2iXvCMrTcvd1o3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987274196021-5kncvakrj3ijcedkedtgv7r5g3mv6gni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
